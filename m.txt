@@ -1,5 +1,6 @@
 {
 "sites": [
+//https://github.com/liu673cn/box
 {"key":"csp_xml_ck","name":"🎀CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","记录片","犯罪片","奇幻片","电视剧","国产剧","欧美剧","日韩剧","港台剧"]},
 
 {"key":"csp_xbb_sobods","name":"🍀真不卡sobods","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zhaxp/b/json/真不卡sobods.json"},
@@ -7,7 +8,8 @@
 {"key":"csp_xbb_黑狐影视ns","name":"🍀黑狐影视(NS)📵","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zhaxp/b/json/黑狐影视ns.json"},
 {"key":"csp_xbb_新香蕉综合网-聚优站","name":"🍀新香蕉综合网-聚优站","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zhaxp/b/json/2022xxj"},
 {"key":"csp_xbb_搞AV","name":"🍀搞AV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zhaxp/b/json/gaoaa"},
-{"key":"csp_xbb_搞AV","name":"🍀搞AV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zhaxp/b/json/gaoaa"}
+{"key":"csp_xbb_黄仓库","name":"🍀黄仓库","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/zhaxp/b/json/hscangku"}
+//
 ],
 //解X设置
 "parses":[
