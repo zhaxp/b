@@ -2,7 +2,7 @@ Github RAW 加速服务
 
 源码 https://gitcdn.top/https://github.com/zhaxp/b/raw/main/m.txt
 
-香港 https://raw.iqiq.io/zhaxp/b/raw/main/m.txt
+香港 https://raw.iqiq.io/zhaxp/b/main/m.txt
 
 新加坡 https://raw.kgithub.com/zhaxp/b/raw/main/m.txt
 
